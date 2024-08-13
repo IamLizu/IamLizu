@@ -6,8 +6,8 @@ Enthusiastic about Software Development, DevOps, Cloud Computing, and Security. 
 
 Currently working at [**ZAAG Systems**](https://zaagsys.com/) ([hasan-zaag](https://github.com/hasan-zaag)) as a Backend Engineer.
 
-### Open Source Contributions
----
+## Open Source Contributions
+
 1. [**Express**](https://github.com/expressjs/express): A Fast, unopinionated, minimalist web framework for Node.js.  
 2. [**wpdetect**](https://github.com/IamLizu/wpdetect): A WordPress detection library.  
 3. [**awspolicy**](https://github.com/IamLizu/awspolicy): Command-line tool for generating custom AWS IAM policies with ease.  
@@ -17,15 +17,13 @@ Currently working at [**ZAAG Systems**](https://zaagsys.com/) ([hasan-zaag](http
 7. [**req-valida**](https://github.com/IamLizu/req-valida): A strict express request validator middleware.
 
 
-### Goal
----
+## Goal
 Make a positive <u>impact on the Software industry</u> by,
 
 - Contributing to Open Source projects and build tools that help developers.
 - Learning and sharing knowledge with the community.
 
 
-### Social
----
+## Social
 
 [LinkedIn](https://www.linkedin.com/in/sm-mahmudul-hasan/) / [Twitter](https://twitter.com/IamLizu)
