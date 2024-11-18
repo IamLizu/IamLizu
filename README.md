@@ -23,8 +23,3 @@ Make a positive <u>impact on the Software industry</u> by,
 
 - Contributing to Open Source projects and build tools that help developers.
 - Learning and sharing knowledge with the community.
-
-
-## Social
-
-[LinkedIn](https://www.linkedin.com/in/sm-mahmudul-hasan/) / [Twitter](https://twitter.com/IamLizu)
