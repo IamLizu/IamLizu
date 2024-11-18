@@ -9,8 +9,8 @@ Currently working at [**ZAAG Systems**](https://zaagsys.com/) ([hasan-zaag](http
 ## Open Source Contributions
 
 1. [**Express**](https://github.com/expressjs/express): A Fast, unopinionated, minimalist web framework for Node.js.
-2. [**sockmanage**](https://github.com/IamLizu/sockmanage): 🔌 Manage single active WebSocket connections per user with Redis-powered persistence.
-3. [**webpfy**](https://github.com/IamLizu/webpfy): A utility to convert images to WebP format for React.js.
+2. [**sockmanage**](https://github.com/IamLizu/sockmanage): Manage single active WebSocket connections per user with Redis-powered persistence.
+3. [**webpfy**](https://github.com/IamLizu/webpfy): A utility to convert images to WebP _directly on the client side_.
 4. [**verceler**](https://github.com/IamLizu/verceler): Automates tag or released based deployments on Vercel using GitHub Actions.  
 5. [**wpdetect**](https://github.com/IamLizu/wpdetect): A WordPress detection library.
 6. [**mongo-to-s3**](https://github.com/IamLizu/mongo-to-s3): Automated script generator to backup MongoDB databases to Amazon S3.
